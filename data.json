@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 13:51 UTC",
+  "updated": "2026-10-28 15:28 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+      "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+      "date": "2026-10-28T14:43:08Z",
+      "source": "SpaceNews"
+    },
+    {
       "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
       "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
       "date": "2026-10-27T00:50:37Z",
@@ -367,15 +373,13 @@
       "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
       "date": "2026-10-23T11:00:57Z",
       "source": "Arstechnica"
-    },
-    {
-      "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
-      "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/",
-      "date": "2026-10-23T03:23:10Z",
-      "source": "SpacePolicyOnline.com"
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-28",
+      "text": "6 nuove notizie rilevate"
+    },
     {
       "date": "2026-10-28",
       "text": "6 nuove notizie rilevate"
