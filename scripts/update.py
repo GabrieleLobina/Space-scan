@@ -82,6 +82,7 @@ def update_launches(data, payload, today):
         if old and (old.get("date"), old.get("window"), old.get("status")) != (item["date"], item["window"], item["status"]):
             changes.append({"date": today, "text": f"Lancio aggiornato: {item['name']} — {item.get('window') or item.get('date')}"})
     data["launches"] = launches
+    print(f"Launch Library 2: {len(launches)} launches imported; {len(changes)} changes detected")
     data.setdefault("changes", [])[:0] = changes[:10]
 
 
@@ -133,6 +134,9 @@ def main():
         if count:
             data.setdefault("changes", []).insert(0, {"date": today, "text": f"{count} nuove notizie rilevate"})
         data["news"] = ordered[:15]
+        print(f"News feeds: {len(data['news'])} articles saved; {count} newly detected")
+    if not fresh:
+        print("News feeds: no fresh data, previous snapshot retained")
     data["changes"] = data.get("changes", [])[:30]
     data["updated"] = dt.datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
