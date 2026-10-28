@@ -221,8 +221,9 @@
         }
       ],
       "image": "https://images-assets.nasa.gov/image/KSC-20260116-PH-KLS01_0001/KSC-20260116-PH-KLS01_0001~orig.jpg",
-      "imageSource": "https://www.nasa.gov/mission/artemis-iii/",
-      "source": "https://www.nasa.gov/mission/artemis-iii/"
+      "imageSource": "https://www.nasa.gov/gallery/nasas-orion-spacecraft/",
+      "source": "https://www.nasa.gov/mission/artemis-iii/",
+      "imageCredit": "NASA"
     },
     {
       "id": "starship",
@@ -249,8 +250,9 @@
         }
       ],
       "image": null,
-      "imageSource": "https://www.spacex.com/vehicles/starship/",
-      "source": "https://newlaunch.space/"
+      "imageSource": "https://www.spacex.com/content",
+      "source": "https://newlaunch.space/",
+      "imageCredit": "SpaceX"
     },
     {
       "id": "hls",
@@ -273,8 +275,9 @@
         }
       ],
       "image": null,
-      "imageSource": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "source": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+      "imageSource": "https://www.nasa.gov/feature/artemis-/",
+      "source": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "imageCredit": "NASA"
     }
   ],
   "news": [
@@ -387,5 +390,5 @@
       "text": "19 nuove notizie rilevate nei feed monitorati"
     }
   ],
-  "note": "Stati hardware descrittivi, non percentuali di completamento. Fonti ufficiali e tracker indipendenti sono distinti."
+  "note": "Fotografie e gallerie collegate alle fonti ufficiali; immagini illustrative non equivalgono a una verifica dell'assemblaggio corrente. Le milestone hardware sono editoriali, i lanci sono sincronizzati da Launch Library 2."
 }
