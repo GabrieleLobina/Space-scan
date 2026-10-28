@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-28 11:10 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -173,12 +173,101 @@
   ],
   "news": [
     {
-      "title": "NASA dettaglia la dimostrazione Artemis III in orbita terrestre",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "date": "2026-10-23",
+      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+      "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+      "date": "2026-10-27T00:50:37Z",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+      "date": "2026-10-26T21:11:56Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "date": "2026-10-26T13:00:00Z",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "A New Era for Space Launch? The Coming Falcon 9 Retirement",
+      "url": "https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/",
+      "date": "2026-10-26T12:11:43Z",
+      "source": "Space Scout"
+    },
+    {
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+      "date": "2026-10-26T04:05:00Z",
       "source": "NASA"
+    },
+    {
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "date": "2026-10-26T04:05:00Z",
+      "source": "NASA"
+    },
+    {
+      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
+      "date": "2026-10-25T18:21:44Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
+      "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
+      "date": "2026-10-24T03:25:36Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "date": "2026-10-23T22:48:25Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "NASA is Full Steam Ahead on Artemis III, IV and V",
+      "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
+      "date": "2026-10-23T22:39:54Z",
+      "source": "SpacePolicyOnline.com"
+    },
+    {
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "date": "2026-10-23T22:39:39Z",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "date": "2026-10-23T22:37:53Z",
+      "source": "NASA"
+    },
+    {
+      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+      "date": "2026-10-23T11:00:57Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
+      "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/",
+      "date": "2026-10-23T03:23:10Z",
+      "source": "SpacePolicyOnline.com"
+    },
+    {
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "date": "2026-10-22T21:52:31Z",
+      "source": "Arstechnica"
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "date": "2026-10-28",
+      "text": "19 nuove notizie rilevate nei feed monitorati"
+    }
+  ],
   "note": "Stati hardware descrittivi, non percentuali di completamento. Fonti ufficiali e tracker indipendenti sono distinti."
 }
