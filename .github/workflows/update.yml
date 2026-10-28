@@ -1,4 +1,4 @@
-name: Space Scan CI - refresh and validate
+name: Space Scan CI - test, sync and publish
 on:
   push:
     branches: [main]
@@ -28,7 +28,9 @@ jobs:
           python-version: '3.12'
       - name: Validate Python updater
         run: python -m py_compile scripts/update.py
-      - name: Refresh space news
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Refresh launches and news
         run: python scripts/update.py
       - name: Validate dashboard data and markup
         run: |
