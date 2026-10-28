@@ -1,11 +1,18 @@
-# Space Scan
+# Space Scan — Mission Intelligence
 
-Dashboard statica dedicata a NASA Artemis e SpaceX, con illustrazioni SVG, timeline e feed news.
+Dashboard: https://gabrielelobina.github.io/Space-scan/
 
-## Pubblicazione
-In **Settings → Pages**, selezionare **Deploy from a branch**, branch **main**, cartella **/(root)**.
+## Features
+Timeline NASA Artemis e SpaceX; countdown solo per date con orario noto; schede hardware con milestone documentate; schemi SVG; notizie NASA e Spaceflight News API; registro delle nuove notizie.
 
-## Aggiornamenti
-Il workflow **Daily space news refresh** aggiorna il feed ogni giorno alle 06:00 UTC (07:00 CET / 08:00 CEST), e può essere avviato manualmente da Actions. In caso di errori di scrittura abilitare **Settings → Actions → General → Workflow permissions → Read and write permissions**.
+## Affidabilità
+Le missioni Artemis sono basate su fonti NASA. I calendari SpaceX possono cambiare. Le informazioni sulla produzione Starship provenienti da newlaunch.space sono di terze parti, non conferme ufficiali. Le immagini sono illustrative e non certificano lo stato di costruzione. Le milestone e i lanci in `data.json` sono uno snapshot editoriale, non ancora aggiornato automaticamente.
 
-Le notizie provengono dal feed NASA e da Spaceflight News API. Le milestone `artemis` e `spacex` nel file `data.json` vanno aggiunte solo con date e fonti verificate. I disegni SVG sono schematici, non documentano lo stato effettivo di costruzione.
+## Aggiornamento automatico
+Il workflow `.github/workflows/update.yml` aggiorna **news e registro delle nuove notizie**, non i calendari dei lanci o le milestone hardware. Orario 06:00 UTC (07:00 CET / 08:00 CEST). Avvio manuale da Actions. Per errori di push: Settings → Actions → General → Workflow permissions → Read and write permissions.
+
+## GitHub Pages
+Settings → Pages → Deploy from a branch → main → /(root).
+
+## Roadmap
+Integrazione API per calendario lanci, fotografie ufficiali con crediti, aggiornamento verificato delle milestone, storico delle variazioni delle date.
