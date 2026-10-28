@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 15:38 UTC",
+  "updated": "2026-10-28 18:54 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -376,6 +376,10 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-28",
+      "text": "5 nuove notizie rilevate"
+    },
     {
       "date": "2026-10-28",
       "text": "6 nuove notizie rilevate"
