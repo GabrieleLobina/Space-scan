@@ -18,16 +18,16 @@
     {
       "date": "2028",
       "title": "Artemis IV",
-      "description": "Primo allunaggio umano del programma Artemis; data esatta non annunciata.",
+      "description": "Prima missione di allunaggio con equipaggio prevista nel 2028; architettura e assegnazione del lander in aggiornamento.",
       "status": "planned",
-      "source": "https://www.nasa.gov/event/artemis-iv/"
+      "source": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
     },
     {
-      "date": "2028",
+      "date": "TBD",
       "title": "Artemis V",
-      "description": "Ulteriore missione lunare pianificata, con calendario ancora preliminare.",
+      "description": "Missione futura del programma Artemis: tempistiche e architettura soggette a revisione.",
       "status": "planned",
-      "source": "https://www.nasa.gov/artemis-ii-news-and-updates/"
+      "source": "https://www.nasa.gov/humans-in-space/artemis/"
     }
   ],
   "spacex": [
@@ -36,7 +36,7 @@
       "title": "Starship Flight 14",
       "description": "Test di volo completato, Starbase Pad 2.",
       "status": "completed",
-      "source": "https://www.spacex.com/launches/starship-flight-14X"
+      "source": "https://www.spacex.com/launches/starship-flight-14"
     },
     {
       "date": "2026 Q4 · TBD",
@@ -223,7 +223,8 @@
       "image": "https://images-assets.nasa.gov/image/KSC-20260116-PH-KLS01_0001/KSC-20260116-PH-KLS01_0001~orig.jpg",
       "imageSource": "https://www.nasa.gov/gallery/nasas-orion-spacecraft/",
       "source": "https://www.nasa.gov/mission/artemis-iii/",
-      "imageCredit": "NASA"
+      "imageCredit": "NASA",
+      "imageCaption": "Foto d'archivio NASA di Orion/SLS; non rappresenta lo stato attuale di Artemis III."
     },
     {
       "id": "starship",
@@ -251,15 +252,16 @@
       ],
       "image": null,
       "imageSource": "https://www.spacex.com/content",
-      "source": "https://newlaunch.space/",
-      "imageCredit": "SpaceX"
+      "source": "https://www.spacex.com/content",
+      "imageCredit": "SpaceX",
+      "imageCaption": "Galleria SpaceX dei voli Starship; fotografie reali dei test, non prova dello stato di Flight 15."
     },
     {
       "id": "hls",
       "program": "Artemis × SpaceX",
       "name": "Starship HLS",
-      "stage": "Dimostrazione docking pianificata",
-      "detail": "NASA prevede nel 2027 una dimostrazione di docking fra Orion e un test article Starship V3, senza trasferimento dell'equipaggio.",
+      "stage": "Dimostrazione di docking Artemis III prevista nel 2027",
+      "detail": "Artemis III prevede test di rendezvous e docking in orbita terrestre con un articolo di prova Starship. Per le missioni lunari successive, NASA ha aggiornato nel 2026 l'architettura e non ha ancora assegnato il primo allunaggio a un fornitore specifico.",
       "milestones": [
         {
           "label": "Concept di missione definito",
@@ -275,9 +277,10 @@
         }
       ],
       "image": null,
-      "imageSource": "https://www.nasa.gov/feature/artemis-/",
-      "source": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "imageCredit": "NASA"
+      "imageSource": "https://www.nasa.gov/humans-in-space/human-landing-system/",
+      "source": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "imageCredit": "NASA",
+      "imageCaption": "Concept ufficiali NASA/SpaceX: Starship HLS non è ancora stata fotografata sulla Luna."
     }
   ],
   "news": [
@@ -390,5 +393,5 @@
       "text": "19 nuove notizie rilevate nei feed monitorati"
     }
   ],
-  "note": "Fotografie e gallerie collegate alle fonti ufficiali; immagini illustrative non equivalgono a una verifica dell'assemblaggio corrente. Le milestone hardware sono editoriali, i lanci sono sincronizzati da Launch Library 2."
+  "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
 }
