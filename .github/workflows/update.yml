@@ -1,22 +1,57 @@
-name: Daily space news refresh
+name: Space Scan CI - refresh and validate
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data.json'
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: space-scan-refresh-main
+  cancel-in-progress: false
 jobs:
   refresh:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/update.py
-      - name: Commit refreshed data
+      - name: Validate Python updater
+        run: python -m py_compile scripts/update.py
+      - name: Refresh space news
+        run: python scripts/update.py
+      - name: Validate dashboard data and markup
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path('data.json').read_text(encoding='utf-8'))
+          assert isinstance(data.get('artemis'), list)
+          assert isinstance(data.get('spacex'), list)
+          assert isinstance(data.get('launches'), list)
+          assert isinstance(data.get('hardware'), list)
+          assert isinstance(data.get('news'), list)
+          assert '<html' in Path('index.html').read_text(encoding='utf-8').lower()
+          print('Validation passed')
+          PY
+      - name: Commit refreshed data when changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --cached --quiet || (git commit -m "Update space news" && git push)
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(data): refresh Space Scan news [skip ci]"
+            git push
+          else
+            echo "No data changes"
+          fi
