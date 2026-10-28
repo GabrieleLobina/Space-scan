@@ -1,7 +1,50 @@
 {
-  "updated": "2026-10-28 · inizializzazione",
+  "updated": "2026-10-28 10:59 UTC",
   "note": "Le immagini sono schemi illustrativi. Milestone e stati di costruzione richiedono verifica editoriale; le news vengono aggiornate automaticamente.",
   "artemis": [],
   "spacex": [],
-  "news": []
+  "news": [
+    {
+      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+      "date": "2026-10-26T21:11:56Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "date": "2026-10-26T13:00:00Z",
+      "source": "SpaceNews"
+    },
+    {
+      "title": "A New Era for Space Launch? The Coming Falcon 9 Retirement",
+      "url": "https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/",
+      "date": "2026-10-26T12:11:43Z",
+      "source": "Space Scout"
+    },
+    {
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+      "date": "2026-10-26T04:05:00Z",
+      "source": "NASA"
+    },
+    {
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "date": "2026-10-26T04:05:00Z",
+      "source": "NASA"
+    },
+    {
+      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
+      "date": "2026-10-25T18:21:44Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
+      "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
+      "date": "2026-10-24T03:25:36Z",
+      "source": "NASASpaceflight"
+    }
+  ]
 }
