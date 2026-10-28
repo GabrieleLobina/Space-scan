@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 11:11 UTC",
+  "updated": "2026-10-28 11:13 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -55,42 +55,148 @@
   ],
   "launches": [
     {
-      "name": "Starlink Group 15-18",
-      "vehicle": "Falcon 9",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+      "vehicle": "Falcon 9 Block 5",
       "date": "2026-10-30T04:02:00Z",
+      "window": null,
       "precision": "datetime",
       "status": "scheduled",
-      "site": "Vandenberg SLC-4E",
-      "source": "https://padzero.space/launches/"
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/57ce0a39-d035-4f16-a418-bd6108f78199/",
+      "provider": "Launch Library 2",
+      "id": "57ce0a39-d035-4f16-a418-bd6108f78199"
     },
     {
-      "name": "USSF-432",
-      "vehicle": "Falcon 9",
+      "name": "Falcon 9 Block 5 | USSF-432",
+      "vehicle": "Falcon 9 Block 5",
       "date": "2026-11-02T01:56:00Z",
+      "window": null,
       "precision": "datetime",
       "status": "scheduled",
-      "site": "Vandenberg SLC-4E",
-      "source": "https://padzero.space/launches/"
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/54d471e8-695c-4fa7-a3cf-dbd8b389e8ae/",
+      "provider": "Launch Library 2",
+      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae"
     },
     {
-      "name": "Starship Flight 15",
-      "vehicle": "Starship",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-11-05T02:35:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/",
+      "provider": "Launch Library 2",
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7"
+    },
+    {
+      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
+      "vehicle": "Falcon 9 Block 5",
       "date": null,
-      "window": "Q4 2026",
+      "window": "NET 30 Nov 2026, 00:00 UTC",
       "precision": "window",
       "status": "tentative",
-      "site": "Starbase, Texas",
-      "source": "https://padzero.space/launches/"
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
+      "provider": "Launch Library 2",
+      "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac"
     },
     {
-      "name": "Artemis III",
-      "vehicle": "SLS / Orion",
+      "name": "Falcon 9 Block 5 | NROL-195",
+      "vehicle": "Falcon 9 Block 5",
       "date": null,
-      "window": "2027",
-      "precision": "year",
-      "status": "planned",
-      "site": "Kennedy Space Center",
-      "source": "https://www.nasa.gov/mission/artemis-iii/"
+      "window": "NET 30 Nov 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
+      "provider": "Launch Library 2",
+      "id": "56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49"
+    },
+    {
+      "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
+      "provider": "Launch Library 2",
+      "id": "71df1dd0-d658-4762-b0bc-0fca6886aea7"
+    },
+    {
+      "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
+      "provider": "Launch Library 2",
+      "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
+    },
+    {
+      "name": "Falcon 9 Block 5 | Telesat Lightspeed 1",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/ce1317de-ec94-4479-9b28-38ebf11f13ae/",
+      "provider": "Launch Library 2",
+      "id": "ce1317de-ec94-4479-9b28-38ebf11f13ae"
+    },
+    {
+      "name": "Falcon Heavy | Griffin Mission One",
+      "vehicle": "Falcon Heavy",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Launch Complex 39A",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
+      "provider": "Launch Library 2",
+      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67"
+    },
+    {
+      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
+      "provider": "Launch Library 2",
+      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
+    },
+    {
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
+      "provider": "Launch Library 2",
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
+    },
+    {
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/01ca3653-126a-4c01-94fb-a9467b39cdac/",
+      "provider": "Launch Library 2",
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac"
     }
   ],
   "hardware": [
@@ -245,6 +351,12 @@
       "source": "NASA"
     },
     {
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "date": "2026-10-23T18:57:04Z",
+      "source": "NASA"
+    },
+    {
       "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
       "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
       "date": "2026-10-23T11:00:57Z",
@@ -255,15 +367,13 @@
       "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/",
       "date": "2026-10-23T03:23:10Z",
       "source": "SpacePolicyOnline.com"
-    },
-    {
-      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-      "date": "2026-10-22T21:52:31Z",
-      "source": "Arstechnica"
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-28",
+      "text": "6 nuove notizie rilevate"
+    },
     {
       "date": "2026-10-28",
       "text": "5 nuove notizie rilevate nei feed monitorati"
