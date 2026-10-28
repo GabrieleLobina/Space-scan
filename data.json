@@ -1,50 +1,184 @@
 {
-  "updated": "2026-10-28 10:59 UTC",
-  "note": "Le immagini sono schemi illustrativi. Milestone e stati di costruzione richiedono verifica editoriale; le news vengono aggiornate automaticamente.",
-  "artemis": [],
-  "spacex": [],
+  "updated": "2026-10-28",
+  "artemis": [
+    {
+      "date": "2026-04-01",
+      "title": "Artemis II",
+      "description": "Missione con equipaggio intorno alla Luna completata nell'aprile 2026.",
+      "status": "completed",
+      "source": "https://www.nasa.gov/humans-in-space/artemis/"
+    },
+    {
+      "date": "2027",
+      "title": "Artemis III",
+      "description": "Dimostrazione in orbita terrestre: Orion, docking con test article Blue Moon e Starship.",
+      "status": "planned",
+      "source": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+    },
+    {
+      "date": "2028",
+      "title": "Artemis IV",
+      "description": "Primo allunaggio umano del programma Artemis; data esatta non annunciata.",
+      "status": "planned",
+      "source": "https://www.nasa.gov/event/artemis-iv/"
+    },
+    {
+      "date": "2028",
+      "title": "Artemis V",
+      "description": "Ulteriore missione lunare pianificata, con calendario ancora preliminare.",
+      "status": "planned",
+      "source": "https://www.nasa.gov/artemis-ii-news-and-updates/"
+    }
+  ],
+  "spacex": [
+    {
+      "date": "2026-09-28",
+      "title": "Starship Flight 14",
+      "description": "Test di volo completato, Starbase Pad 2.",
+      "status": "completed",
+      "source": "https://www.spacex.com/launches/starship-flight-14X"
+    },
+    {
+      "date": "2026 Q4 · TBD",
+      "title": "Starship Flight 15",
+      "description": "Finestra indicativa, senza orario ufficiale confermato.",
+      "status": "tentative",
+      "source": "https://padzero.space/launches/"
+    },
+    {
+      "date": "2027",
+      "title": "Starship per Artemis III",
+      "description": "Test di rendezvous e docking con Orion previsti nella missione Artemis III.",
+      "status": "planned",
+      "source": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+    }
+  ],
+  "launches": [
+    {
+      "name": "Starlink Group 15-18",
+      "vehicle": "Falcon 9",
+      "date": "2026-10-30T04:02:00Z",
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Vandenberg SLC-4E",
+      "source": "https://padzero.space/launches/"
+    },
+    {
+      "name": "USSF-432",
+      "vehicle": "Falcon 9",
+      "date": "2026-11-02T01:56:00Z",
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Vandenberg SLC-4E",
+      "source": "https://padzero.space/launches/"
+    },
+    {
+      "name": "Starship Flight 15",
+      "vehicle": "Starship",
+      "date": null,
+      "window": "Q4 2026",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Starbase, Texas",
+      "source": "https://padzero.space/launches/"
+    },
+    {
+      "name": "Artemis III",
+      "vehicle": "SLS / Orion",
+      "date": null,
+      "window": "2027",
+      "precision": "year",
+      "status": "planned",
+      "site": "Kennedy Space Center",
+      "source": "https://www.nasa.gov/mission/artemis-iii/"
+    }
+  ],
+  "hardware": [
+    {
+      "id": "orion",
+      "program": "Artemis",
+      "name": "Orion / SLS",
+      "stage": "Artemis II volata; nuova campagna in preparazione",
+      "detail": "La missione Artemis III utilizzerà SLS e Orion per test in orbita terrestre. Lo stato di assemblaggio della prossima unità richiede aggiornamenti ufficiali specifici.",
+      "milestones": [
+        {
+          "label": "Artemis II: missione completata",
+          "done": true
+        },
+        {
+          "label": "Preparazione Artemis III",
+          "done": false
+        },
+        {
+          "label": "Missione dimostrativa 2027",
+          "done": false
+        }
+      ],
+      "image": "https://images-assets.nasa.gov/image/KSC-20260116-PH-KLS01_0001/KSC-20260116-PH-KLS01_0001~orig.jpg",
+      "imageSource": "https://www.nasa.gov/mission/artemis-iii/",
+      "source": "https://www.nasa.gov/mission/artemis-iii/"
+    },
+    {
+      "id": "starship",
+      "program": "SpaceX",
+      "name": "Starship / Super Heavy",
+      "stage": "Flight 15: preparazione e test",
+      "detail": "Tracker di terze parti riporta B22 e Ship 42 come candidati per Flight 15; l'assegnazione e lo stato vanno considerati non ufficiali.",
+      "milestones": [
+        {
+          "label": "Flight 14 completato",
+          "done": true
+        },
+        {
+          "label": "B22: static fire segnalato",
+          "done": true
+        },
+        {
+          "label": "Ship 42: static fire segnalato",
+          "done": true
+        },
+        {
+          "label": "Flight 15",
+          "done": false
+        }
+      ],
+      "image": null,
+      "imageSource": "https://www.spacex.com/vehicles/starship/",
+      "source": "https://newlaunch.space/"
+    },
+    {
+      "id": "hls",
+      "program": "Artemis × SpaceX",
+      "name": "Starship HLS",
+      "stage": "Dimostrazione docking pianificata",
+      "detail": "NASA prevede nel 2027 una dimostrazione di docking fra Orion e un test article Starship V3, senza trasferimento dell'equipaggio.",
+      "milestones": [
+        {
+          "label": "Concept di missione definito",
+          "done": true
+        },
+        {
+          "label": "Test rendezvous e docking",
+          "done": false
+        },
+        {
+          "label": "Preparazione missioni lunari",
+          "done": false
+        }
+      ],
+      "image": null,
+      "imageSource": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "source": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+    }
+  ],
   "news": [
     {
-      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-      "date": "2026-10-26T21:11:56Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-      "date": "2026-10-26T13:00:00Z",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "A New Era for Space Launch? The Coming Falcon 9 Retirement",
-      "url": "https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/",
-      "date": "2026-10-26T12:11:43Z",
-      "source": "Space Scout"
-    },
-    {
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
-      "date": "2026-10-26T04:05:00Z",
+      "title": "NASA dettaglia la dimostrazione Artemis III in orbita terrestre",
+      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "date": "2026-10-23",
       "source": "NASA"
-    },
-    {
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-      "date": "2026-10-26T04:05:00Z",
-      "source": "NASA"
-    },
-    {
-      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
-      "date": "2026-10-25T18:21:44Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
-      "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
-      "date": "2026-10-24T03:25:36Z",
-      "source": "NASASpaceflight"
     }
-  ]
+  ],
+  "changes": [],
+  "note": "Stati hardware descrittivi, non percentuali di completamento. Fonti ufficiali e tracker indipendenti sono distinti."
 }
