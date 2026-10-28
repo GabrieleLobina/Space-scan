@@ -250,11 +250,11 @@
           "done": false
         }
       ],
-      "image": null,
-      "imageSource": "https://www.spacex.com/content",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "imageSource": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/?format=api&limit=10&manufacturer__name=SpaceX&ordering=-successful_launches",
       "source": "https://www.spacex.com/content",
-      "imageCredit": "SpaceX",
-      "imageCaption": "Galleria SpaceX dei voli Starship; fotografie reali dei test, non prova dello stato di Flight 15."
+      "imageCredit": "SpaceX / Launch Library 2",
+      "imageCaption": "Starship sulla rampa durante il wet dress rehearsal di Flight 7 (2025). Foto: SpaceX, via Launch Library 2. Immagine storica, non Flight 15."
     },
     {
       "id": "hls",
@@ -276,11 +276,11 @@
           "done": false
         }
       ],
-      "image": null,
-      "imageSource": "https://www.nasa.gov/humans-in-space/human-landing-system/",
+      "image": "https://images-assets.nasa.gov/image/SpaceX%20Human%20Landing%20System%20Development%20Milestones/SpaceX%20Human%20Landing%20System%20Development%20Milestones~orig.png",
+      "imageSource": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "source": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "imageCredit": "NASA",
-      "imageCaption": "Concept ufficiali NASA/SpaceX: Starship HLS non è ancora stata fotografata sulla Luna."
+      "imageCaption": "Grafica NASA del 13 ottobre 2026 sui milestone Starship HLS: concept e piano di sviluppo, non fotografia del lander."
     }
   ],
   "news": [
