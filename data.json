@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 18:56 UTC",
+  "updated": "2026-10-29 11:58 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | Starlink Group 15-18",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-10-30T04:02:00Z",
+      "date": "2026-10-31T03:48:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -69,7 +69,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-432",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-02T01:56:00Z",
+      "date": "2026-11-03T01:42:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -81,7 +81,7 @@
     {
       "name": "Falcon 9 Block 5 | Starlink Group 15-21",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-05T02:35:00Z",
+      "date": "2026-11-06T02:21:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -89,6 +89,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/",
       "provider": "Launch Library 2",
       "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7"
+    },
+    {
+      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 10 Nov 2026, 03:03 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/",
+      "provider": "Launch Library 2",
+      "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178"
     },
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
@@ -113,6 +125,30 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
       "provider": "Launch Library 2",
       "id": "56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49"
+    },
+    {
+      "name": "Falcon 9 Block 5 | OneWeb 21",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 30 Nov 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c/",
+      "provider": "Launch Library 2",
+      "id": "b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c"
+    },
+    {
+      "name": "Starship | Flight 15",
+      "vehicle": "Starship V3",
+      "date": null,
+      "window": "NET 30 Nov 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Orbital Launch Pad 2",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
+      "provider": "Launch Library 2",
+      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b"
     },
     {
       "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
@@ -161,42 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
       "provider": "Launch Library 2",
       "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67"
-    },
-    {
-      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Space Launch Complex 40",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
-      "provider": "Launch Library 2",
-      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
-    },
-    {
-      "name": "Falcon 9 Block 5 | CHORUS",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Unknown Pad",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
-      "provider": "Launch Library 2",
-      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
-    },
-    {
-      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Unknown Pad",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/01ca3653-126a-4c01-94fb-a9467b39cdac/",
-      "provider": "Launch Library 2",
-      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac"
     }
   ],
   "hardware": [
@@ -285,6 +285,30 @@
   ],
   "news": [
     {
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "date": "2026-10-29T11:00:08Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "date": "2026-10-29T02:49:59Z",
+      "source": "NASA"
+    },
+    {
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "date": "2026-10-28T21:50:01Z",
+      "source": "NASA"
+    },
+    {
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "date": "2026-10-28T18:59:44Z",
+      "source": "NASA"
+    },
+    {
       "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
       "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
       "date": "2026-10-28T14:43:08Z",
@@ -349,33 +373,25 @@
       "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
       "date": "2026-10-23T22:39:54Z",
       "source": "SpacePolicyOnline.com"
-    },
-    {
-      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "date": "2026-10-23T22:39:39Z",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "date": "2026-10-23T22:37:53Z",
-      "source": "NASA"
-    },
-    {
-      "title": "RS-25 Engine Tests at NASA Stennis",
-      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-      "date": "2026-10-23T18:57:04Z",
-      "source": "NASA"
-    },
-    {
-      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-      "date": "2026-10-23T11:00:57Z",
-      "source": "Arstechnica"
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-29",
+      "text": "8 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-10-29",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | Starlink Group 15-18 — 2026-10-31T03:48:00Z"
+    },
+    {
+      "date": "2026-10-29",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-03T01:42:00Z"
+    },
+    {
+      "date": "2026-10-29",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | Starlink Group 15-21 — 2026-11-06T02:21:00Z"
+    },
     {
       "date": "2026-10-28",
       "text": "5 nuove notizie rilevate"
