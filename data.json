@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 11:58 UTC",
+  "updated": "2026-10-30 11:51 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -106,7 +106,7 @@
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
       "vehicle": "Falcon 9 Block 5",
       "date": null,
-      "window": "NET 30 Nov 2026, 00:00 UTC",
+      "window": "NET 29 Nov 2026, 16:00 UTC",
       "precision": "window",
       "status": "tentative",
       "site": "Space Launch Complex 40",
@@ -175,18 +175,6 @@
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
     },
     {
-      "name": "Falcon 9 Block 5 | Telesat Lightspeed 1",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Unknown Pad",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/ce1317de-ec94-4479-9b28-38ebf11f13ae/",
-      "provider": "Launch Library 2",
-      "id": "ce1317de-ec94-4479-9b28-38ebf11f13ae"
-    },
-    {
       "name": "Falcon Heavy | Griffin Mission One",
       "vehicle": "Falcon Heavy",
       "date": null,
@@ -197,6 +185,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
       "provider": "Launch Library 2",
       "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67"
+    },
+    {
+      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
+      "provider": "Launch Library 2",
+      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
     }
   ],
   "hardware": [
@@ -285,6 +285,18 @@
   ],
   "news": [
     {
+      "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
+      "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/",
+      "date": "2026-10-29T21:02:54Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "Advice for optimizing the space industry with Laura Crabtree",
+      "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
+      "date": "2026-10-29T15:01:09Z",
+      "source": "SpaceNews"
+    },
+    {
       "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
       "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
       "date": "2026-10-29T11:00:08Z",
@@ -361,21 +373,17 @@
       "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
       "date": "2026-10-24T03:25:36Z",
       "source": "NASASpaceflight"
-    },
-    {
-      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-      "date": "2026-10-23T22:48:25Z",
-      "source": "Arstechnica"
-    },
-    {
-      "title": "NASA is Full Steam Ahead on Artemis III, IV and V",
-      "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
-      "date": "2026-10-23T22:39:54Z",
-      "source": "SpacePolicyOnline.com"
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-30",
+      "text": "8 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-10-30",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — NET 29 Nov 2026, 16:00 UTC"
+    },
     {
       "date": "2026-10-29",
       "text": "8 nuove notizie rilevate"
