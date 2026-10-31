@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 11:51 UTC",
+  "updated": "2026-10-31 11:25 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -54,18 +54,6 @@
     }
   ],
   "launches": [
-    {
-      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "vehicle": "Falcon 9 Block 5",
-      "date": "2026-10-31T03:48:00Z",
-      "window": null,
-      "precision": "datetime",
-      "status": "scheduled",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/57ce0a39-d035-4f16-a418-bd6108f78199/",
-      "provider": "Launch Library 2",
-      "id": "57ce0a39-d035-4f16-a418-bd6108f78199"
-    },
     {
       "name": "Falcon 9 Block 5 | USSF-432",
       "vehicle": "Falcon 9 Block 5",
@@ -197,6 +185,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
       "provider": "Launch Library 2",
       "id": "11b218b1-5e40-4b9d-854e-50320299239d"
+    },
+    {
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
+      "provider": "Launch Library 2",
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
     }
   ],
   "hardware": [
@@ -285,6 +285,24 @@
   ],
   "news": [
     {
+      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+      "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+      "date": "2026-10-30T22:46:02Z",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+      "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
+      "date": "2026-10-30T21:53:38Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "date": "2026-10-30T16:12:59Z",
+      "source": "Arstechnica"
+    },
+    {
       "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
       "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/",
       "date": "2026-10-29T21:02:54Z",
@@ -355,27 +373,13 @@
       "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
       "date": "2026-10-26T04:05:00Z",
       "source": "NASA"
-    },
-    {
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-      "date": "2026-10-26T04:05:00Z",
-      "source": "NASA"
-    },
-    {
-      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
-      "date": "2026-10-25T18:21:44Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
-      "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
-      "date": "2026-10-24T03:25:36Z",
-      "source": "NASASpaceflight"
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-31",
+      "text": "8 nuove notizie rilevate"
+    },
     {
       "date": "2026-10-30",
       "text": "8 nuove notizie rilevate"
