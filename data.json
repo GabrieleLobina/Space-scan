@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 11:25 UTC",
+  "updated": "2026-11-01 12:19 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -163,18 +163,6 @@
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
     },
     {
-      "name": "Falcon Heavy | Griffin Mission One",
-      "vehicle": "Falcon Heavy",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Launch Complex 39A",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
-      "provider": "Launch Library 2",
-      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67"
-    },
-    {
       "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
       "vehicle": "Falcon 9 Block 5",
       "date": null,
@@ -197,6 +185,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
       "provider": "Launch Library 2",
       "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
+    },
+    {
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/01ca3653-126a-4c01-94fb-a9467b39cdac/",
+      "provider": "Launch Library 2",
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac"
     }
   ],
   "hardware": [
@@ -285,6 +285,18 @@
   ],
   "news": [
     {
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "date": "Sun, 01 Nov 2026 04:05:00 +0000",
+      "source": "NASA"
+    },
+    {
+      "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+      "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+      "date": "2026-11-01T03:36:55Z",
+      "source": "NASASpaceflight"
+    },
+    {
       "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
       "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
       "date": "2026-10-30T22:46:02Z",
@@ -361,21 +373,13 @@
       "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
       "date": "2026-10-26T13:00:00Z",
       "source": "SpaceNews"
-    },
-    {
-      "title": "A New Era for Space Launch? The Coming Falcon 9 Retirement",
-      "url": "https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/",
-      "date": "2026-10-26T12:11:43Z",
-      "source": "Space Scout"
-    },
-    {
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
-      "date": "2026-10-26T04:05:00Z",
-      "source": "NASA"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-01",
+      "text": "9 nuove notizie rilevate"
+    },
     {
       "date": "2026-10-31",
       "text": "8 nuove notizie rilevate"
