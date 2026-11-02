@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01 12:19 UTC",
+  "updated": "2026-11-02 14:13 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-432",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-03T01:42:00Z",
+      "date": "2026-11-04T01:28:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -65,18 +65,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/54d471e8-695c-4fa7-a3cf-dbd8b389e8ae/",
       "provider": "Launch Library 2",
       "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae"
-    },
-    {
-      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
-      "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-06T02:21:00Z",
-      "window": null,
-      "precision": "datetime",
-      "status": "scheduled",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/",
-      "provider": "Launch Library 2",
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7"
     },
     {
       "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
@@ -125,6 +113,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c/",
       "provider": "Launch Library 2",
       "id": "b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c"
+    },
+    {
+      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 30 Nov 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/",
+      "provider": "Launch Library 2",
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7"
     },
     {
       "name": "Starship | Flight 15",
@@ -376,6 +376,18 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-02",
+      "text": "5 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-02",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-04T01:28:00Z"
+    },
+    {
+      "date": "2026-11-02",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | Starlink Group 15-21 — NET 30 Nov 2026, 00:00 UTC"
+    },
     {
       "date": "2026-11-01",
       "text": "9 nuove notizie rilevate"
