@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02 14:13 UTC",
+  "updated": "2026-11-03 13:15 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-432",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-04T01:28:00Z",
+      "date": "2026-11-07T00:46:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -81,10 +81,10 @@
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
       "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 29 Nov 2026, 16:00 UTC",
-      "precision": "window",
-      "status": "tentative",
+      "date": "2026-11-29T15:49:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
       "site": "Space Launch Complex 40",
       "source": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
       "provider": "Launch Library 2",
@@ -285,10 +285,28 @@
   ],
   "news": [
     {
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "date": "Sun, 01 Nov 2026 04:05:00 +0000",
+      "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
+      "date": "2026-11-02T22:21:38Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "date": "2026-11-02T21:35:59Z",
       "source": "NASA"
+    },
+    {
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "date": "2026-11-02T17:33:22Z",
+      "source": "NASA"
+    },
+    {
+      "title": "China releases timeline for lunar landing on the Moon, targeting \"before 2030\"",
+      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+      "date": "2026-11-02T17:09:13Z",
+      "source": "Arstechnica"
     },
     {
       "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
@@ -355,27 +373,21 @@
       "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
       "date": "2026-10-28T14:43:08Z",
       "source": "SpaceNews"
-    },
-    {
-      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
-      "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-      "date": "2026-10-27T00:50:37Z",
-      "source": "Spaceflight Now"
-    },
-    {
-      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-      "date": "2026-10-26T21:11:56Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-      "date": "2026-10-26T13:00:00Z",
-      "source": "SpaceNews"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-03",
+      "text": "4 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-03",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-07T00:46:00Z"
+    },
+    {
+      "date": "2026-11-03",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — 2026-11-29T15:49:00Z"
+    },
     {
       "date": "2026-11-02",
       "text": "5 nuove notizie rilevate"
