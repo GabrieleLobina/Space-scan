@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03 13:15 UTC",
+  "updated": "2026-11-04 13:28 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -67,16 +67,28 @@
       "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae"
     },
     {
-      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+      "name": "Falcon 9 Block 5 | USSF-627",
       "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 10 Nov 2026, 03:03 UTC",
-      "precision": "window",
-      "status": "tentative",
+      "date": "2026-11-10T03:03:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
       "site": "Space Launch Complex 4E",
       "source": "https://ll.thespacedevs.com/2.2.0/launch/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/",
       "provider": "Launch Library 2",
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178"
+    },
+    {
+      "name": "Falcon 9 Block 5 | USSF-317",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-11-13T04:23:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/76617033-4dc0-4448-b50c-e5b0d5a18539/",
+      "provider": "Launch Library 2",
+      "id": "76617033-4dc0-4448-b50c-e5b0d5a18539"
     },
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
@@ -185,18 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
       "provider": "Launch Library 2",
       "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
-    },
-    {
-      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Unknown Pad",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/01ca3653-126a-4c01-94fb-a9467b39cdac/",
-      "provider": "Launch Library 2",
-      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac"
     }
   ],
   "hardware": [
@@ -376,6 +376,10 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-04",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-10T03:03:00Z"
+    },
     {
       "date": "2026-11-03",
       "text": "4 nuove notizie rilevate"
