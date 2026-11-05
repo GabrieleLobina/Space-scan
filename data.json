@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 13:28 UTC",
+  "updated": "2026-11-05 13:43 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -285,6 +285,18 @@
   ],
   "news": [
     {
+      "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
+      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+      "date": "2026-11-04T20:36:05Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "date": "2026-11-04T20:17:07Z",
+      "source": "NASA"
+    },
+    {
       "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
       "date": "2026-11-02T22:21:38Z",
@@ -349,33 +361,13 @@
       "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
       "date": "2026-10-29T11:00:08Z",
       "source": "Arstechnica"
-    },
-    {
-      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
-      "date": "2026-10-29T02:49:59Z",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
-      "date": "2026-10-28T21:50:01Z",
-      "source": "NASA"
-    },
-    {
-      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-      "date": "2026-10-28T18:59:44Z",
-      "source": "NASA"
-    },
-    {
-      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-      "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-      "date": "2026-10-28T14:43:08Z",
-      "source": "SpaceNews"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-05",
+      "text": "2 nuove notizie rilevate"
+    },
     {
       "date": "2026-11-04",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-10T03:03:00Z"
