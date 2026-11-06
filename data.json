@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 13:43 UTC",
+  "updated": "2026-11-06 13:27 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-432",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-07T00:46:00Z",
+      "date": "2026-11-07T00:48:42Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -77,6 +77,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/",
       "provider": "Launch Library 2",
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178"
+    },
+    {
+      "name": "Starship | Flight 15",
+      "vehicle": "Starship V3",
+      "date": null,
+      "window": "NET 13 Nov 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Orbital Launch Pad 2",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
+      "provider": "Launch Library 2",
+      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b"
     },
     {
       "name": "Falcon 9 Block 5 | USSF-317",
@@ -139,16 +151,28 @@
       "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7"
     },
     {
-      "name": "Starship | Flight 15",
-      "vehicle": "Starship V3",
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "vehicle": "Falcon 9 Block 5",
       "date": null,
-      "window": "NET 30 Nov 2026, 00:00 UTC",
+      "window": "NET 31 Dec 2026, 00:00 UTC",
       "precision": "window",
       "status": "tentative",
-      "site": "Orbital Launch Pad 2",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
       "provider": "Launch Library 2",
-      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b"
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
+    },
+    {
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/e61d353c-db55-4a57-8184-0fab187231e6/",
+      "provider": "Launch Library 2",
+      "id": "e61d353c-db55-4a57-8184-0fab187231e6"
     },
     {
       "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
@@ -173,30 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "provider": "Launch Library 2",
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
-    },
-    {
-      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Space Launch Complex 40",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
-      "provider": "Launch Library 2",
-      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
-    },
-    {
-      "name": "Falcon 9 Block 5 | CHORUS",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Unknown Pad",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
-      "provider": "Launch Library 2",
-      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
     }
   ],
   "hardware": [
@@ -349,21 +349,17 @@
       "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/",
       "date": "2026-10-29T21:02:54Z",
       "source": "NASASpaceflight"
-    },
-    {
-      "title": "Advice for optimizing the space industry with Laura Crabtree",
-      "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
-      "date": "2026-10-29T15:01:09Z",
-      "source": "SpaceNews"
-    },
-    {
-      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-      "date": "2026-10-29T11:00:08Z",
-      "source": "Arstechnica"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-06",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-07T00:48:42Z"
+    },
+    {
+      "date": "2026-11-06",
+      "text": "Lancio aggiornato: Starship | Flight 15 — NET 13 Nov 2026, 00:00 UTC"
+    },
     {
       "date": "2026-11-05",
       "text": "2 nuove notizie rilevate"
