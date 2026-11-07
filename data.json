@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 13:27 UTC",
+  "updated": "2026-11-07 12:06 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -54,18 +54,6 @@
     }
   ],
   "launches": [
-    {
-      "name": "Falcon 9 Block 5 | USSF-432",
-      "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-07T00:48:42Z",
-      "window": null,
-      "precision": "datetime",
-      "status": "scheduled",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/54d471e8-695c-4fa7-a3cf-dbd8b389e8ae/",
-      "provider": "Launch Library 2",
-      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae"
-    },
     {
       "name": "Falcon 9 Block 5 | USSF-627",
       "vehicle": "Falcon 9 Block 5",
@@ -197,6 +185,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "provider": "Launch Library 2",
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
+    },
+    {
+      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
+      "provider": "Launch Library 2",
+      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
     }
   ],
   "hardware": [
@@ -285,6 +285,18 @@
   ],
   "news": [
     {
+      "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+      "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+      "date": "2026-11-06T22:00:39Z",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+      "date": "2026-11-06T15:31:51Z",
+      "source": "NASASpaceflight"
+    },
+    {
       "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
       "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
       "date": "2026-11-04T20:36:05Z",
@@ -343,15 +355,13 @@
       "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
       "date": "2026-10-30T16:12:59Z",
       "source": "Arstechnica"
-    },
-    {
-      "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
-      "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/",
-      "date": "2026-10-29T21:02:54Z",
-      "source": "NASASpaceflight"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-07",
+      "text": "2 nuove notizie rilevate"
+    },
     {
       "date": "2026-11-06",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-07T00:48:42Z"
