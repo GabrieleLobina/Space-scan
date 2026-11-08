@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 12:06 UTC",
+  "updated": "2026-11-08 12:27 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -67,18 +67,6 @@
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178"
     },
     {
-      "name": "Starship | Flight 15",
-      "vehicle": "Starship V3",
-      "date": null,
-      "window": "NET 13 Nov 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Orbital Launch Pad 2",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
-      "provider": "Launch Library 2",
-      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b"
-    },
-    {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
       "date": "2026-11-13T04:23:00Z",
@@ -89,6 +77,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/76617033-4dc0-4448-b50c-e5b0d5a18539/",
       "provider": "Launch Library 2",
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539"
+    },
+    {
+      "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
+      "vehicle": "Starship V3",
+      "date": null,
+      "window": "NET 13 Nov 2026, 22:45 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Orbital Launch Pad 2",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
+      "provider": "Launch Library 2",
+      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b"
     },
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "date": "Sat, 07 Nov 2026 22:47:03 +0000",
+      "source": "NASA"
+    },
+    {
       "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
       "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
       "date": "2026-11-06T22:00:39Z",
@@ -358,6 +364,14 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-08",
+      "text": "1 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-08",
+      "text": "Lancio aggiornato: Starship | Starlink Group 31-2 (Starship Flight 15) — NET 13 Nov 2026, 22:45 UTC"
+    },
     {
       "date": "2026-11-07",
       "text": "2 nuove notizie rilevate"
