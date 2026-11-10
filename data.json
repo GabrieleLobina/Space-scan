@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 14:42 UTC",
+  "updated": "2026-11-10 13:58 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-627",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-10T03:07:15Z",
+      "date": "2026-11-11T02:49:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -65,18 +65,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/",
       "provider": "Launch Library 2",
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178"
-    },
-    {
-      "name": "Falcon 9 Block 5 | USSF-317",
-      "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-13T04:23:00Z",
-      "window": null,
-      "precision": "datetime",
-      "status": "scheduled",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/76617033-4dc0-4448-b50c-e5b0d5a18539/",
-      "provider": "Launch Library 2",
-      "id": "76617033-4dc0-4448-b50c-e5b0d5a18539"
     },
     {
       "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
@@ -89,6 +77,30 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
       "provider": "Launch Library 2",
       "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b"
+    },
+    {
+      "name": "Falcon 9 Block 5 | USSF-317",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-11-14T04:09:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/76617033-4dc0-4448-b50c-e5b0d5a18539/",
+      "provider": "Launch Library 2",
+      "id": "76617033-4dc0-4448-b50c-e5b0d5a18539"
+    },
+    {
+      "name": "Falcon 9 Block 5 | USSF-266",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-11-17T16:58:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/460d9db7-eaf6-4cd9-b095-cff433534c09/",
+      "provider": "Launch Library 2",
+      "id": "460d9db7-eaf6-4cd9-b095-cff433534c09"
     },
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
@@ -185,18 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "provider": "Launch Library 2",
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
-    },
-    {
-      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Space Launch Complex 40",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
-      "provider": "Launch Library 2",
-      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
     }
   ],
   "hardware": [
@@ -285,16 +285,34 @@
   ],
   "news": [
     {
-      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-      "date": "Sun, 08 Nov 2026 15:26:38 +0000",
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+      "date": "Tue, 10 Nov 2026 05:05:00 +0000",
       "source": "NASA"
     },
     {
-      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-      "date": "Sat, 07 Nov 2026 22:47:03 +0000",
+      "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+      "date": "2026-11-09T22:37:05Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+      "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+      "date": "Mon, 09 Nov 2026 17:36:33 +0000",
       "source": "NASA"
+    },
+    {
+      "title": "Astronauts Across Generations Share the Stage",
+      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+      "date": "2026-11-09T16:56:29Z",
+      "source": "NASA"
+    },
+    {
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "date": "2026-11-09T15:39:21Z",
+      "source": "Arstechnica"
     },
     {
       "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
@@ -337,33 +355,21 @@
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
       "date": "2026-11-02T17:33:22Z",
       "source": "NASA"
-    },
-    {
-      "title": "China releases timeline for lunar landing on the Moon, targeting \"before 2030\"",
-      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-      "date": "2026-11-02T17:09:13Z",
-      "source": "Arstechnica"
-    },
-    {
-      "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
-      "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
-      "date": "2026-11-01T03:36:55Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-      "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-      "date": "2026-10-30T22:46:02Z",
-      "source": "Spaceflight Now"
-    },
-    {
-      "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-      "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
-      "date": "2026-10-30T21:53:38Z",
-      "source": "NASASpaceflight"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-10",
+      "text": "5 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-10",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-11T02:49:00Z"
+    },
+    {
+      "date": "2026-11-10",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-14T04:09:00Z"
+    },
     {
       "date": "2026-11-09",
       "text": "1 nuove notizie rilevate"
@@ -463,18 +469,6 @@
     {
       "date": "2026-10-28",
       "text": "5 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-28",
-      "text": "6 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-28",
-      "text": "6 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-28",
-      "text": "6 nuove notizie rilevate"
     },
     {
       "date": "2026-10-28",
