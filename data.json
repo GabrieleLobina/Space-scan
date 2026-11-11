@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 13:58 UTC",
+  "updated": "2026-11-11 13:12 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-627",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-11T02:49:00Z",
+      "date": "2026-11-12T02:35:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -81,7 +81,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-14T04:09:00Z",
+      "date": "2026-11-15T03:55:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -93,7 +93,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-266",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-17T16:58:00Z",
+      "date": "2026-11-18T16:49:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "Isaacman lays out SLS path to the 2030s",
+      "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+      "date": "2026-11-11T04:02:42Z",
+      "source": "NASASpaceflight"
+    },
+    {
       "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
       "date": "Tue, 10 Nov 2026 05:05:00 +0000",
@@ -295,12 +301,6 @@
       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
       "date": "2026-11-09T22:37:05Z",
       "source": "NASASpaceflight"
-    },
-    {
-      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
-      "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
-      "date": "Mon, 09 Nov 2026 17:36:33 +0000",
-      "source": "NASA"
     },
     {
       "title": "Astronauts Across Generations Share the Stage",
@@ -337,27 +337,25 @@
       "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
       "date": "2026-11-04T20:17:07Z",
       "source": "NASA"
-    },
-    {
-      "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
-      "date": "2026-11-02T22:21:38Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "date": "2026-11-02T21:35:59Z",
-      "source": "NASA"
-    },
-    {
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "date": "2026-11-02T17:33:22Z",
-      "source": "NASA"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-11",
+      "text": "1 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-11",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-12T02:35:00Z"
+    },
+    {
+      "date": "2026-11-11",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-15T03:55:00Z"
+    },
+    {
+      "date": "2026-11-11",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-266 — 2026-11-18T16:49:00Z"
+    },
     {
       "date": "2026-11-10",
       "text": "5 nuove notizie rilevate"
@@ -461,22 +459,6 @@
     {
       "date": "2026-10-29",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | Starlink Group 15-21 — 2026-11-06T02:21:00Z"
-    },
-    {
-      "date": "2026-10-28",
-      "text": "5 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-28",
-      "text": "5 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-28",
-      "text": "6 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-28",
-      "text": "6 nuove notizie rilevate"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
