@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 13:12 UTC",
+  "updated": "2026-11-12 14:15 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -54,18 +54,6 @@
     }
   ],
   "launches": [
-    {
-      "name": "Falcon 9 Block 5 | USSF-627",
-      "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-12T02:35:00Z",
-      "window": null,
-      "precision": "datetime",
-      "status": "scheduled",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/",
-      "provider": "Launch Library 2",
-      "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178"
-    },
     {
       "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
       "vehicle": "Starship V3",
@@ -197,6 +185,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "provider": "Launch Library 2",
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
+    },
+    {
+      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
+      "provider": "Launch Library 2",
+      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
     }
   ],
   "hardware": [
@@ -285,16 +285,16 @@
   ],
   "news": [
     {
+      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "date": "Thu, 12 Nov 2026 05:05:00 +0000",
+      "source": "NASA"
+    },
+    {
       "title": "Isaacman lays out SLS path to the 2030s",
       "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
       "date": "2026-11-11T04:02:42Z",
       "source": "NASASpaceflight"
-    },
-    {
-      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-      "date": "Tue, 10 Nov 2026 05:05:00 +0000",
-      "source": "NASA"
     },
     {
       "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
@@ -340,6 +340,10 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-12",
+      "text": "1 nuove notizie rilevate"
+    },
     {
       "date": "2026-11-11",
       "text": "1 nuove notizie rilevate"
@@ -455,10 +459,6 @@
     {
       "date": "2026-10-29",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-03T01:42:00Z"
-    },
-    {
-      "date": "2026-10-29",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | Starlink Group 15-21 — 2026-11-06T02:21:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
