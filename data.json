@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 14:15 UTC",
+  "updated": "2026-11-13 13:38 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -69,7 +69,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-15T03:55:00Z",
+      "date": "2026-11-18T03:14:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -91,9 +91,21 @@
       "id": "460d9db7-eaf6-4cd9-b095-cff433534c09"
     },
     {
+      "name": "Falcon 9 Block 5 | NROL-136",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-11-21T12:30:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/951a341f-236b-42fe-a667-4ab2fcf36eac/",
+      "provider": "Launch Library 2",
+      "id": "951a341f-236b-42fe-a667-4ab2fcf36eac"
+    },
+    {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-29T15:49:00Z",
+      "date": "2026-11-29T15:47:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -185,18 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "provider": "Launch Library 2",
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
-    },
-    {
-      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Space Launch Complex 40",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
-      "provider": "Launch Library 2",
-      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
     }
   ],
   "hardware": [
@@ -285,6 +285,24 @@
   ],
   "news": [
     {
+      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+      "date": "2026-11-13T12:00:40Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "Starship Flight 15 to attempt first catch of both stages",
+      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+      "date": "2026-11-13T04:24:28Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "I Am Artemis Katie Spicer",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "date": "2026-11-12T20:10:02Z",
+      "source": "NASA"
+    },
+    {
       "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
       "date": "Thu, 12 Nov 2026 05:05:00 +0000",
@@ -331,15 +349,21 @@
       "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
       "date": "2026-11-04T20:36:05Z",
       "source": "Arstechnica"
-    },
-    {
-      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-      "date": "2026-11-04T20:17:07Z",
-      "source": "NASA"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-13",
+      "text": "3 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-13",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-18T03:14:00Z"
+    },
+    {
+      "date": "2026-11-13",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — 2026-11-29T15:47:00Z"
+    },
     {
       "date": "2026-11-12",
       "text": "1 nuove notizie rilevate"
@@ -447,18 +471,6 @@
     {
       "date": "2026-10-30",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — NET 29 Nov 2026, 16:00 UTC"
-    },
-    {
-      "date": "2026-10-29",
-      "text": "8 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-29",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | Starlink Group 15-18 — 2026-10-31T03:48:00Z"
-    },
-    {
-      "date": "2026-10-29",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-03T01:42:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
