@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 13:38 UTC",
+  "updated": "2026-11-14 12:42 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -55,18 +55,6 @@
   ],
   "launches": [
     {
-      "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
-      "vehicle": "Starship V3",
-      "date": null,
-      "window": "NET 13 Nov 2026, 22:45 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Orbital Launch Pad 2",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
-      "provider": "Launch Library 2",
-      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b"
-    },
-    {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
       "date": "2026-11-18T03:14:00Z",
@@ -79,18 +67,6 @@
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539"
     },
     {
-      "name": "Falcon 9 Block 5 | USSF-266",
-      "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-18T16:49:00Z",
-      "window": null,
-      "precision": "datetime",
-      "status": "scheduled",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/460d9db7-eaf6-4cd9-b095-cff433534c09/",
-      "provider": "Launch Library 2",
-      "id": "460d9db7-eaf6-4cd9-b095-cff433534c09"
-    },
-    {
       "name": "Falcon 9 Block 5 | NROL-136",
       "vehicle": "Falcon 9 Block 5",
       "date": "2026-11-21T12:30:00Z",
@@ -101,6 +77,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/951a341f-236b-42fe-a667-4ab2fcf36eac/",
       "provider": "Launch Library 2",
       "id": "951a341f-236b-42fe-a667-4ab2fcf36eac"
+    },
+    {
+      "name": "Falcon 9 Block 5 | USSF-266",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-11-23T16:04:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/460d9db7-eaf6-4cd9-b095-cff433534c09/",
+      "provider": "Launch Library 2",
+      "id": "460d9db7-eaf6-4cd9-b095-cff433534c09"
     },
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
@@ -197,6 +185,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "provider": "Launch Library 2",
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
+    },
+    {
+      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
+      "provider": "Launch Library 2",
+      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
     }
   ],
   "hardware": [
@@ -285,6 +285,24 @@
   ],
   "news": [
     {
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "date": "2026-11-14T00:49:13Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
+      "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
+      "date": "2026-11-13T23:54:54Z",
+      "source": "SpacePolicyOnline.com"
+    },
+    {
+      "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
+      "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+      "date": "2026-11-13T19:15:11Z",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
       "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
       "date": "2026-11-13T12:00:40Z",
@@ -343,15 +361,17 @@
       "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
       "date": "2026-11-06T15:31:51Z",
       "source": "NASASpaceflight"
-    },
-    {
-      "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
-      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-      "date": "2026-11-04T20:36:05Z",
-      "source": "Arstechnica"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-14",
+      "text": "3 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-14",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-266 — 2026-11-23T16:04:00Z"
+    },
     {
       "date": "2026-11-13",
       "text": "3 nuove notizie rilevate"
@@ -463,14 +483,6 @@
     {
       "date": "2026-10-31",
       "text": "8 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-30",
-      "text": "8 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-30",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — NET 29 Nov 2026, 16:00 UTC"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
