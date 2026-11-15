@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14 12:42 UTC",
+  "updated": "2026-11-15 13:09 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -285,6 +285,24 @@
   ],
   "news": [
     {
+      "title": "APOD: 2026 November 15 – Leonid Meteors Through Orion",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/",
+      "date": "2026-11-15T05:05:00Z",
+      "source": "NASA"
+    },
+    {
+      "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "date": "2026-11-15T00:40:59Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "SpaceX Catches a Starship",
+      "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
+      "date": "2026-11-14T21:53:18Z",
+      "source": "SpacePolicyOnline.com"
+    },
+    {
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
       "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
       "date": "2026-11-14T00:49:13Z",
@@ -355,15 +373,13 @@
       "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
       "date": "2026-11-06T22:00:39Z",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-      "date": "2026-11-06T15:31:51Z",
-      "source": "NASASpaceflight"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-15",
+      "text": "3 nuove notizie rilevate"
+    },
     {
       "date": "2026-11-14",
       "text": "3 nuove notizie rilevate"
@@ -479,10 +495,6 @@
     {
       "date": "2026-11-01",
       "text": "9 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-10-31",
-      "text": "8 nuove notizie rilevate"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
