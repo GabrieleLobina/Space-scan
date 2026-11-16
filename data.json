@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15 13:09 UTC",
+  "updated": "2026-11-16 14:17 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-18T03:14:00Z",
+      "date": "2026-11-19T03:00:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "Starship Returns to its Launch Pad From Orbit",
+      "url": "https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/",
+      "date": "2026-11-15T21:27:36Z",
+      "source": "Space Scout"
+    },
+    {
       "title": "APOD: 2026 November 15 – Leonid Meteors Through Orion",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/",
       "date": "2026-11-15T05:05:00Z",
@@ -339,12 +345,6 @@
       "source": "NASA"
     },
     {
-      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
-      "date": "Thu, 12 Nov 2026 05:05:00 +0000",
-      "source": "NASA"
-    },
-    {
       "title": "Isaacman lays out SLS path to the 2030s",
       "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
       "date": "2026-11-11T04:02:42Z",
@@ -376,6 +376,14 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-16",
+      "text": "2 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-16",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-19T03:00:00Z"
+    },
     {
       "date": "2026-11-15",
       "text": "3 nuove notizie rilevate"
@@ -487,14 +495,6 @@
     {
       "date": "2026-11-02",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-04T01:28:00Z"
-    },
-    {
-      "date": "2026-11-02",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | Starlink Group 15-21 — NET 30 Nov 2026, 00:00 UTC"
-    },
-    {
-      "date": "2026-11-01",
-      "text": "9 nuove notizie rilevate"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
