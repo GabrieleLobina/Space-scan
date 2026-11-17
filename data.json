@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 14:17 UTC",
+  "updated": "2026-11-17 15:10 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -285,6 +285,24 @@
   ],
   "news": [
     {
+      "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+      "date": "2026-11-16T21:57:02Z",
+      "source": "NASASpaceflight"
+    },
+    {
+      "title": "When will humans actually fly on Starship?",
+      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "date": "2026-11-16T19:46:08Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
+      "url": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/",
+      "date": "2026-11-16T17:50:24Z",
+      "source": "European Spaceflight"
+    },
+    {
       "title": "Starship Returns to its Launch Pad From Orbit",
       "url": "https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/",
       "date": "2026-11-15T21:27:36Z",
@@ -355,27 +373,13 @@
       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
       "date": "2026-11-09T22:37:05Z",
       "source": "NASASpaceflight"
-    },
-    {
-      "title": "Astronauts Across Generations Share the Stage",
-      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
-      "date": "2026-11-09T16:56:29Z",
-      "source": "NASA"
-    },
-    {
-      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-      "date": "2026-11-09T15:39:21Z",
-      "source": "Arstechnica"
-    },
-    {
-      "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
-      "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-      "date": "2026-11-06T22:00:39Z",
-      "source": "Spaceflight Now"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-17",
+      "text": "3 nuove notizie rilevate"
+    },
     {
       "date": "2026-11-16",
       "text": "2 nuove notizie rilevate"
@@ -491,10 +495,6 @@
     {
       "date": "2026-11-02",
       "text": "5 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-11-02",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-04T01:28:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
