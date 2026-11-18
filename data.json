@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 15:10 UTC",
+  "updated": "2026-11-18 14:48 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-19T03:00:00Z",
+      "date": "2026-11-20T02:46:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "date": "2026-11-17T19:16:22Z",
+      "source": "NASA"
+    },
+    {
       "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
       "date": "2026-11-16T21:57:02Z",
@@ -367,15 +373,17 @@
       "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
       "date": "2026-11-11T04:02:42Z",
       "source": "NASASpaceflight"
-    },
-    {
-      "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-      "date": "2026-11-09T22:37:05Z",
-      "source": "NASASpaceflight"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-18",
+      "text": "2 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-18",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-20T02:46:00Z"
+    },
     {
       "date": "2026-11-17",
       "text": "3 nuove notizie rilevate"
@@ -487,14 +495,6 @@
     {
       "date": "2026-11-03",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-07T00:46:00Z"
-    },
-    {
-      "date": "2026-11-03",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — 2026-11-29T15:49:00Z"
-    },
-    {
-      "date": "2026-11-02",
-      "text": "5 nuove notizie rilevate"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
