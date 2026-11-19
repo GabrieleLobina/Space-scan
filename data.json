@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 14:48 UTC",
+  "updated": "2026-11-19 14:54 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-20T02:46:00Z",
+      "date": "2026-11-20T04:32:55Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -89,6 +89,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/460d9db7-eaf6-4cd9-b095-cff433534c09/",
       "provider": "Launch Library 2",
       "id": "460d9db7-eaf6-4cd9-b095-cff433534c09"
+    },
+    {
+      "name": "Falcon 9 Block 5 | USSF-380",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-11-28T04:53:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/b0d27def-0a88-44c3-a947-1fd5b8503e2c/",
+      "provider": "Launch Library 2",
+      "id": "b0d27def-0a88-44c3-a947-1fd5b8503e2c"
     },
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
@@ -185,18 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "provider": "Launch Library 2",
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e"
-    },
-    {
-      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Space Launch Complex 40",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
-      "provider": "Launch Library 2",
-      "id": "11b218b1-5e40-4b9d-854e-50320299239d"
     }
   ],
   "hardware": [
@@ -285,6 +285,30 @@
   ],
   "news": [
     {
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "date": "2026-11-19T14:44:39Z",
+      "source": "NASA"
+    },
+    {
+      "title": "To make Moon landings easier, NASA is making life harder for Orion",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "date": "2026-11-19T13:40:02Z",
+      "source": "Arstechnica"
+    },
+    {
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "date": "2026-11-18T22:19:17Z",
+      "source": "NASA"
+    },
+    {
+      "title": "What Is the Moon Base?",
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+      "date": "Wed, 18 Nov 2026 17:36:03 +0000",
+      "source": "NASA"
+    },
+    {
       "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
       "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
       "date": "2026-11-17T19:16:22Z",
@@ -349,33 +373,17 @@
       "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
       "date": "2026-11-13T19:15:11Z",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-      "date": "2026-11-13T12:00:40Z",
-      "source": "Arstechnica"
-    },
-    {
-      "title": "Starship Flight 15 to attempt first catch of both stages",
-      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-      "date": "2026-11-13T04:24:28Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "I Am Artemis Katie Spicer",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-      "date": "2026-11-12T20:10:02Z",
-      "source": "NASA"
-    },
-    {
-      "title": "Isaacman lays out SLS path to the 2030s",
-      "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-      "date": "2026-11-11T04:02:42Z",
-      "source": "NASASpaceflight"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-19",
+      "text": "4 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-19",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-20T04:32:55Z"
+    },
     {
       "date": "2026-11-18",
       "text": "2 nuove notizie rilevate"
@@ -487,14 +495,6 @@
     {
       "date": "2026-11-04",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-10T03:03:00Z"
-    },
-    {
-      "date": "2026-11-03",
-      "text": "4 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-11-03",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-432 — 2026-11-07T00:46:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
