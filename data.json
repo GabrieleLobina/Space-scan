@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 14:54 UTC",
+  "updated": "2026-11-20 14:36 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-317",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-20T04:32:55Z",
+      "date": "2026-11-21T02:32:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "date": "2026-11-19T23:51:47Z",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
       "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
       "date": "2026-11-19T14:44:39Z",
@@ -300,12 +306,6 @@
       "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
       "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
       "date": "2026-11-18T22:19:17Z",
-      "source": "NASA"
-    },
-    {
-      "title": "What Is the Moon Base?",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
-      "date": "Wed, 18 Nov 2026 17:36:03 +0000",
       "source": "NASA"
     },
     {
@@ -376,6 +376,14 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-20",
+      "text": "4 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-20",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-21T02:32:00Z"
+    },
     {
       "date": "2026-11-19",
       "text": "4 nuove notizie rilevate"
@@ -487,14 +495,6 @@
     {
       "date": "2026-11-06",
       "text": "Lancio aggiornato: Starship | Flight 15 — NET 13 Nov 2026, 00:00 UTC"
-    },
-    {
-      "date": "2026-11-05",
-      "text": "2 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-11-04",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-10T03:03:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
