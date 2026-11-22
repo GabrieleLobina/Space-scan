@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 13:53 UTC",
+  "updated": "2026-11-22 13:47 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -54,18 +54,6 @@
     }
   ],
   "launches": [
-    {
-      "name": "Falcon 9 Block 5 | NROL-136",
-      "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-22T12:16:00Z",
-      "window": null,
-      "precision": "datetime",
-      "status": "scheduled",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/951a341f-236b-42fe-a667-4ab2fcf36eac/",
-      "provider": "Launch Library 2",
-      "id": "951a341f-236b-42fe-a667-4ab2fcf36eac"
-    },
     {
       "name": "Falcon 9 Block 5 | USSF-266",
       "vehicle": "Falcon 9 Block 5",
@@ -197,6 +185,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
       "provider": "Launch Library 2",
       "id": "11b218b1-5e40-4b9d-854e-50320299239d"
+    },
+    {
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/2d0472b9-463d-49c8-afb1-7925e49a3368/",
+      "provider": "Launch Library 2",
+      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368"
     }
   ],
   "hardware": [
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+      "date": "2026-11-21T16:50:51Z",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
       "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
       "date": "2026-11-20T22:16:51Z",
@@ -367,15 +373,13 @@
       "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
       "date": "2026-11-15T00:40:59Z",
       "source": "Arstechnica"
-    },
-    {
-      "title": "SpaceX Catches a Starship",
-      "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
-      "date": "2026-11-14T21:53:18Z",
-      "source": "SpacePolicyOnline.com"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-22",
+      "text": "6 nuove notizie rilevate"
+    },
     {
       "date": "2026-11-21",
       "text": "6 nuove notizie rilevate"
@@ -491,10 +495,6 @@
     {
       "date": "2026-11-10",
       "text": "5 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-11-10",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-11T02:49:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
