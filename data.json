@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22 13:47 UTC",
+  "updated": "2026-11-23 16:51 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -89,6 +89,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
       "provider": "Launch Library 2",
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac"
+    },
+    {
+      "name": "Falcon 9 Block 5 | NROL-132",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 02 Dec 2026, 20:30 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Space Launch Complex 4E",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/5591cfa3-6336-41ab-a37a-7c57aa28ab5f/",
+      "provider": "Launch Library 2",
+      "id": "5591cfa3-6336-41ab-a37a-7c57aa28ab5f"
     },
     {
       "name": "Falcon 9 Block 5 | CHORUS",
@@ -185,18 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
       "provider": "Launch Library 2",
       "id": "11b218b1-5e40-4b9d-854e-50320299239d"
-    },
-    {
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/2d0472b9-463d-49c8-afb1-7925e49a3368/",
-      "provider": "Launch Library 2",
-      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368"
     }
   ],
   "hardware": [
@@ -377,6 +377,10 @@
   ],
   "changes": [
     {
+      "date": "2026-11-23",
+      "text": "4 nuove notizie rilevate"
+    },
+    {
       "date": "2026-11-22",
       "text": "6 nuove notizie rilevate"
     },
@@ -491,10 +495,6 @@
     {
       "date": "2026-11-11",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-266 — 2026-11-18T16:49:00Z"
-    },
-    {
-      "date": "2026-11-10",
-      "text": "5 nuove notizie rilevate"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
