@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24 16:42 UTC",
+  "updated": "2026-11-25 16:28 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -69,7 +69,7 @@
     {
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-29T15:50:00Z",
+      "date": "2026-11-29T15:47:00Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -89,6 +89,18 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/5591cfa3-6336-41ab-a37a-7c57aa28ab5f/",
       "provider": "Launch Library 2",
       "id": "5591cfa3-6336-41ab-a37a-7c57aa28ab5f"
+    },
+    {
+      "name": "Falcon 9 Block 5 | Amazon Leo (LF-04)",
+      "vehicle": "Falcon 9 Block 5",
+      "date": null,
+      "window": "NET 31 Dec 2026, 00:00 UTC",
+      "precision": "window",
+      "status": "tentative",
+      "site": "Unknown Pad",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/9b9db235-8ffb-4569-b09b-0e852ad231a0/",
+      "provider": "Launch Library 2",
+      "id": "9b9db235-8ffb-4569-b09b-0e852ad231a0"
     },
     {
       "name": "Falcon 9 Block 5 | CHORUS",
@@ -185,18 +197,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/11b218b1-5e40-4b9d-854e-50320299239d/",
       "provider": "Launch Library 2",
       "id": "11b218b1-5e40-4b9d-854e-50320299239d"
-    },
-    {
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Space Launch Complex 4E",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/2d0472b9-463d-49c8-afb1-7925e49a3368/",
-      "provider": "Launch Library 2",
-      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368"
     }
   ],
   "hardware": [
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+      "date": "2026-11-25T01:06:02Z",
+      "source": "NASASpaceflight"
+    },
+    {
       "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
       "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
       "date": "2026-11-24T16:12:46Z",
@@ -301,12 +307,6 @@
       "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
       "date": "2026-11-23T22:21:32Z",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon ",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
-      "date": "Mon, 23 Nov 2026 17:23:50 +0000",
-      "source": "NASA"
     },
     {
       "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
@@ -361,21 +361,17 @@
       "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
       "date": "2026-11-17T19:16:22Z",
       "source": "NASA"
-    },
-    {
-      "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-      "date": "2026-11-16T21:57:02Z",
-      "source": "NASASpaceflight"
-    },
-    {
-      "title": "When will humans actually fly on Starship?",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "date": "2026-11-16T19:46:08Z",
-      "source": "Arstechnica"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-25",
+      "text": "1 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-25",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — 2026-11-29T15:47:00Z"
+    },
     {
       "date": "2026-11-24",
       "text": "4 nuove notizie rilevate"
@@ -487,14 +483,6 @@
     {
       "date": "2026-11-11",
       "text": "1 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-11-11",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-627 — 2026-11-12T02:35:00Z"
-    },
-    {
-      "date": "2026-11-11",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-15T03:55:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
