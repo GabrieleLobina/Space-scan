@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 16:28 UTC",
+  "updated": "2026-11-26 16:01 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -91,6 +91,18 @@
       "id": "5591cfa3-6336-41ab-a37a-7c57aa28ab5f"
     },
     {
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "vehicle": "Falcon 9 Block 5",
+      "date": "2026-12-04T12:55:00Z",
+      "window": null,
+      "precision": "datetime",
+      "status": "scheduled",
+      "site": "Space Launch Complex 40",
+      "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
+      "provider": "Launch Library 2",
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
+    },
+    {
       "name": "Falcon 9 Block 5 | Amazon Leo (LF-04)",
       "vehicle": "Falcon 9 Block 5",
       "date": null,
@@ -101,18 +113,6 @@
       "source": "https://ll.thespacedevs.com/2.2.0/launch/9b9db235-8ffb-4569-b09b-0e852ad231a0/",
       "provider": "Launch Library 2",
       "id": "9b9db235-8ffb-4569-b09b-0e852ad231a0"
-    },
-    {
-      "name": "Falcon 9 Block 5 | CHORUS",
-      "vehicle": "Falcon 9 Block 5",
-      "date": null,
-      "window": "NET 31 Dec 2026, 00:00 UTC",
-      "precision": "window",
-      "status": "tentative",
-      "site": "Unknown Pad",
-      "source": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
-      "provider": "Launch Library 2",
-      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab"
     },
     {
       "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)",
@@ -285,6 +285,18 @@
   ],
   "news": [
     {
+      "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+      "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+      "date": "2026-11-26T01:27:58Z",
+      "source": "Spaceflight Now"
+    },
+    {
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "date": "2026-11-25T18:22:38Z",
+      "source": "Arstechnica"
+    },
+    {
       "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
       "date": "2026-11-25T01:06:02Z",
@@ -355,15 +367,17 @@
       "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
       "date": "2026-11-18T22:19:17Z",
       "source": "NASA"
-    },
-    {
-      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
-      "date": "2026-11-17T19:16:22Z",
-      "source": "NASA"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-26",
+      "text": "2 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-26",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | CHORUS — 2026-12-04T12:55:00Z"
+    },
     {
       "date": "2026-11-25",
       "text": "1 nuove notizie rilevate"
@@ -475,14 +489,6 @@
     {
       "date": "2026-11-13",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | Cygnus CRS-2 NG-25 — 2026-11-29T15:47:00Z"
-    },
-    {
-      "date": "2026-11-12",
-      "text": "1 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-11-11",
-      "text": "1 nuove notizie rilevate"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
