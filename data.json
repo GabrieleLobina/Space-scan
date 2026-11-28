@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 15:49 UTC",
+  "updated": "2026-11-28 14:44 UTC",
   "artemis": [
     {
       "date": "2026-04-01",
@@ -57,7 +57,7 @@
     {
       "name": "Falcon 9 Block 5 | USSF-380",
       "vehicle": "Falcon 9 Block 5",
-      "date": "2026-11-29T04:39:00Z",
+      "date": "2026-11-29T04:39:03Z",
       "window": null,
       "precision": "datetime",
       "status": "scheduled",
@@ -285,6 +285,12 @@
   ],
   "news": [
     {
+      "title": "Live coverage: SpaceX to launch satellites for U.S. Space Force’s data network",
+      "url": "https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network/",
+      "date": "2026-11-28T14:05:09Z",
+      "source": "Spaceflight Now"
+    },
+    {
       "title": "Artemis III Astronaut Andre Douglas Visits VAB",
       "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
       "date": "2026-11-27T15:01:00Z",
@@ -367,15 +373,17 @@
       "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
       "date": "2026-11-19T23:51:47Z",
       "source": "Spaceflight Now"
-    },
-    {
-      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "date": "2026-11-19T14:44:39Z",
-      "source": "NASA"
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-28",
+      "text": "3 nuove notizie rilevate"
+    },
+    {
+      "date": "2026-11-28",
+      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-380 — 2026-11-29T04:39:03Z"
+    },
     {
       "date": "2026-11-27",
       "text": "3 nuove notizie rilevate"
@@ -487,14 +495,6 @@
     {
       "date": "2026-11-14",
       "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-266 — 2026-11-23T16:04:00Z"
-    },
-    {
-      "date": "2026-11-13",
-      "text": "3 nuove notizie rilevate"
-    },
-    {
-      "date": "2026-11-13",
-      "text": "Lancio aggiornato: Falcon 9 Block 5 | USSF-317 — 2026-11-18T03:14:00Z"
     }
   ],
   "note": "I lanci sono sincronizzati da Launch Library 2. Roadmap e milestone hardware sono schede editoriali verificate su fonti NASA/SpaceX, non telemetria live. Le foto sono d'archivio e i concept HLS non sono fotografie del veicolo operativo."
